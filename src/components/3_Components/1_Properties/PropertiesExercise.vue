@@ -1,6 +1,6 @@
 <template>
 	<div class="root">
-		TODO1: This component should accept a street name, street number, postal code  as mandatory properties.
+		TODO1: This component should accept a street name, street number, postal code as properties.
 		<br/>
 		TODO2: Provide default values for all properties.
 		<br/>
