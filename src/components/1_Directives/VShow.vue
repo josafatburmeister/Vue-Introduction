@@ -8,7 +8,7 @@
 
 		<button v-on:click="toggle = !toggle">v-show</button>
 
-		<!-- element is only shown if firstToggle is true -->
+		<!-- element is only shown if toggle is true -->
 		<div v-show="toggle">With v-show an element's visibility can be toggled.</div>
 
 	</div>

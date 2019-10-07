@@ -5,7 +5,7 @@
 
 		<!-- use v-bind to bind attribute values -->	
 		<!-- as shorthand for v-bind:align we could use	:align -->
-		<div :align="alignment">	
+		<div v-bind:align="alignment">	
 			The alignment of this div is bound to the alignment property using v-bind.
 		</div>
 
