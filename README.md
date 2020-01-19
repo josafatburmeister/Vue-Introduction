@@ -1,5 +1,7 @@
 # testapp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/josafatburmeister/Vue-Introduction.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 npm install
